@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0dbdbe82-1053-4011-be81-a7aa9e218741" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book-network/src/main/java/com/mohamed/Book_network/Security/JwtFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Book-network/src/main/java/com/mohamed/Book_network/Security/JwtFilter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +63,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mohamed.Book_network.Security" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Book-network/src/main/resources" />
       <recent name="$PROJECT_DIR$/.idea" />
@@ -107,7 +111,9 @@
       <workItem from="1776340146748" duration="8760000" />
       <workItem from="1776603791554" duration="3827000" />
       <workItem from="1776689578751" duration="1868000" />
-      <workItem from="1776771633871" duration="3417000" />
+      <workItem from="1776771633871" duration="4818000" />
+      <workItem from="1777493880650" duration="218000" />
+      <workItem from="1777545516451" duration="2246000" />
     </task>
     <servers />
   </component>
